@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Richard-Emmanuel/Interactive-rating-component.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://richard-emmanuel.github.io/Interactive-rating-component/)
 
 ### Built with
 
